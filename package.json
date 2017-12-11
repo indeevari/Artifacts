@@ -3,9 +3,25 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "2": "^1.0.2",
+    "angular": "^1.6.7",
+    "angular2": "^2.0.0-beta.21",
+    "node": "^9.2.0",
+    "typescript": "^2.6.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indeevari/Artifacts.git"
+  },
   "author": "indee",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indeevari/Artifacts/issues"
+  },
+  "homepage": "https://github.com/indeevari/Artifacts#readme"
 }
